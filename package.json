@@ -1,0 +1,22 @@
+{
+  "name": "simple-styles",
+  "version": "0.0.1",
+  "description": "A simple implementation of JS \"style sheets\" for React components",
+  "main": "Styles.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/somesocks/simple-styles.git"
+  },
+  "keywords": [
+    "styles",
+	"react"
+  ],
+  "author": "James Larsen (somesocks@gmail.com)",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/somesocks/simple-styles/issues"
+  },
+  "homepage": "https://github.com/somesocks/simple-styles"
+}
