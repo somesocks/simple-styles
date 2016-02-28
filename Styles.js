@@ -7,7 +7,7 @@ var patch = function(to,from){
 	}
 };
 
-var Styles = function(){
+var Stylesheet = function(){
 	var STYLES = {};
 
 	this.get = function(){
@@ -27,5 +27,10 @@ var Styles = function(){
 	return this;
 }
 
+
+var Styles = {
+	Stylesheet: Stylesheet,
+	patch: patch,
+};
 
 module.exports = Styles;
